@@ -1,0 +1,250 @@
+- name: 常用推荐
+  icon: linecons-star
+  links: 
+    - title: Google
+      logo: /assets/images/logos/google.png
+      url: https://google.com/
+      description: 谷歌搜索
+    - title: 百度
+      logo: /assets/images/logos/baidu.png
+      url: https://www.baidu.com/
+      description: 百度搜索
+    - title: 虫部落·快搜
+      logo: /assets/images/logos/chongbuluo.png
+      url: https://search.chongbuluo.com/
+      description: 学术、电子书、图片等资源快搜
+    - title: 知识星球
+      logo: /assets/images/logos/zsxq.png
+      url: https://wx.zsxq.com/
+      description: 高品质知识社群
+    - title: LeetCode 中文
+      logo: /assets/images/logos/leetcode.png
+      url: https://leetcode-cn.com/problemset/all/
+      description: 力扣中国官网，算法刷题网站。
+    - title: 极客时间
+      logo: /assets/images/logos/geektime.png
+      url: https://time.geekbang.org/
+      description: 知识付费，学习大佬的知识
+    - title: 语雀
+      logo: /assets/images/logos/yuque.png
+      url: https://www.yuque.com/dashboard
+      description: 十万阿里人都在用的笔记与文档知识库  
+  
+
+- name: 编程社区·博客平台
+  icon: linecons-doc
+  links: 
+    - title: GitHub
+      logo: /assets/images/logos/github.png
+      url: https://github.com
+      description: 全球最大代码托管平台
+    - title: 码云 Gitee
+      logo: /assets/images/logos/gitee.png
+      url: https://gitee.com/
+      description: 国内代码托管平台
+    - title: B3log 开源
+      logo: /assets/images/logos/b3log.png
+      url: https://b3log.org/
+      description: 黑客派社区、Solo 博客系统等     
+    - title: V2EX
+      logo: /assets/images/logos/v2ex.png
+      url: https://www.v2ex.com/
+      description: 创意工作者们的社区
+    - title: 知乎
+      logo: /assets/images/logos/zhihu.png
+      url: https://www.zhihu.com/
+      description: 中文问答平台，发现更大的世界
+    - title: CSDN
+      logo: /assets/images/logos/csdn.png
+      url: https://www.csdn.net/
+      description: 中文专业 IT 技术社区
+    - title: 掘金
+      logo: /assets/images/logos/juejin.png
+      url: https://juejin.im/
+      description: 一个帮助开发者成长的社区
+    - title: 思否
+      logo: /assets/images/logos/segmentfault.png
+      url: https://segmentfault.com/
+      description: 开发者社区
+    - title: 开源中国
+      logo: /assets/images/logos/oschina.png
+      url: https://www.oschina.net/
+      description: 中文开源技术社区
+    - title: InfoQ
+      logo: /assets/images/logos/infoq.png
+      url: https://www.infoq.cn/
+      description: 促进软件开发及相关领域知识与创新的传播
+    - title: Readhub
+      logo: /assets/images/logos/readhub.png
+      url: https://readhub.cn
+      description: 关于企业、科技、开发者的最新资讯
+    - title: Medium
+      logo: /assets/images/logos/medium.png
+      url: https://medium.com/
+      description: 外文博客社区
+    - title: Stack Overflow
+      logo: /assets/images/logos/stackoverflow.png
+      url: https://stackoverflow.com/
+      description: 全球最大的编程问答社区
+    
+
+- name: 工具·利器
+  icon: linecons-diamond
+  links:
+    - title: Ubuntu Pastebin
+      logo: /assets/images/logos/ubuntu_logo.png
+      url: https://paste.ubuntu.com
+      description: 代码片段的粘贴、分享工具
+    - title: 程序员的在线工具箱
+      logo: /assets/images/logos/tool.png
+      url: https://tool.lu/
+      description: 代码格式化、进制转换、加密解码等等
+    - title: 米铺网
+      logo: /assets/images/logos/mmpuu.png
+      url: http://free.mmpuu.com/
+      description: 百度文库免费下载系统
+    - title: Maven Repository
+      logo: /assets/images/logos/mvnrepository.png
+      url: https://mvnrepository.com/
+      description: Java-Web 中依赖的 jar、maven、gradle 等资源的聚合
+    - title: Desmos
+      logo: /assets/images/logos/desmos.png
+      url: https://www.desmos.com/calculator
+      description: 数学函数等图像的绘制
+    - title: 石墨文档
+      logo: /assets/images/logos/shimo.png
+      url: https://shimo.im
+      description: 多人实时协作的云端 office
+    - title: ProcessOn
+      logo: /assets/images/logos/processon.png
+      url: https://www.processon.com/diagrams
+      description: 在线作图：流程图、思维导图、UML 等等
+    - title: 七牛云
+      logo: /assets/images/logos/qiniu.png
+      url: https://portal.qiniu.com/kodo/bucket
+      description: 对象存储服务
+    - title: TinyPNG
+      logo: /assets/images/logos/tinypng.png
+      url: https://tinypng.com/
+      description: jpg 和 png 图片免费压缩
+    - title: OCR Maker
+      logo: /assets/images/logos/ocrmaker.png
+      url: http://ocrmaker.com/
+      description: 免费在线 OCR 服务
+    - title: 微信读书
+      logo: /assets/images/logos/weread.png
+      url: https://weread.qq.com/
+      description: 正版书籍、小说免费读
+    - title: DataModel anywhere
+      logo: /assets/images/logos/dmanywhere.png
+      url: http://www.dmanywhere.cn/
+      description: 在线 PDM 查看工具
+    - title: 金十数据
+      logo: /assets/images/logos/jin10.png
+      url: https://www.jin10.com/
+      description: 查询各种交易数据
+    - title: 胡萝卜周博客
+      logo: /assets/images/logos/hlbz.png
+      url: http://www.carrotchou.blog/
+      description: 破解软件分享网站
+
+ 
+- name: 优秀博客
+  icon: linecons-pencil
+  links:
+    - title: 老卫，柳伟卫      
+      logo: /assets/images/logos/waylau.jpg
+      url: https://waylau.com
+      description: 关注编程、系统架构、性能优化。著有关于 Java、 Spring、Netty、微服务等方面的电子书。
+    - title: Hollis
+      logo: /assets/images/logos/Hollis.png
+      url: http://www.hollischuang.com/
+      description: 阿里技术专家，关于 Java 及 Web 后端的深度好文
+    - title: 如果天空不死-博客园
+      logo: /assets/images/logos/cnblogs.png
+      url: https://www.cnblogs.com/skywang12345/
+      description: 关于数据结构与算法及 Java 的实现
+    - title: Java 技术栈
+      logo: /assets/images/logos/javastack.jpg
+      url: http://javastack.cn/
+      description: 关于Java及Web后端的的博客文章
+    - title: 泥瓦匠BYSocket
+      logo: /assets/images/logos/bysocket.png
+      url: https://www.bysocket.com
+      description: 主要学习实践于 Spring 全家桶、ES、Flink、Blink 大数据相关及微服务架构落地。
+    - title: 程序猿DD
+      logo: /assets/images/logos/didispace.jpg
+      url: http://blog.didispace.com
+      description: 主要负责基于Spring Cloud的微服务架构落地，SpringCloud中文社区创始人，Spring4All社区联合发起人
+    - title: Spring for All
+      logo: /assets/images/logos/spring4all.png
+      url: http://www.spring4all.com/
+      description: 国内首个 Spring 及 Spring Cloud 构建微服务架构的交流社区
+    - title: 酷壳 – CoolShell
+      logo: /assets/images/logos/coolshell.png
+      url: https://coolshell.cn
+      description: 左耳朵耗子，陈皓的个人博客
+    - title: 纯洁的微笑
+      logo: /assets/images/logos/ityouknow.jpg
+      url: http://www.ityouknow.com/
+      description: 关于 Java 及 Web 后端的深度好文
+    - title: 五分钟学算法
+      logo: /assets/images/logos/cxyxiaowu.png
+      url: https://www.cxyxiaowu.com/
+      description: 传统算法、LeetCode、剑指offer等算法的生动讲解
+    - title: 江南一点雨
+      logo: /assets/images/logos/blog.png
+      url: http://www.javaboy.org
+      description: 专注于 Spring Boot + 微服务技术分享
+    - title: 陶辉笔记
+      logo: /assets/images/logos/taohui.jpg
+      url: http://taohui.pub/
+      description: 计算机网络、Nginx 技术大佬
+    - title: 并发编程网
+      logo: /assets/images/logos/ifeve.png
+      url: http://ifeve.com/
+      description: 致力于并发等精品技术的研究和传播，组织翻译和原创了数百篇技术精品文章
+    - title: 淘宝数据库内核月报
+      logo: /assets/images/logos/taobao.png
+      url: http://mysql.taobao.org/monthly/
+      description: 关于 MySQL 数据库的深度文章
+
+- name: 资源聚集
+  icon: linecons-user
+  links:
+    - title: 电影天堂
+      logo: /assets/images/logos/dytt.png
+      url: https://www.dytt8.net/
+      description: 免费电影、迅雷电影下载
+    - title: Wallpaper Abyss
+      logo: /assets/images/logos/Wallpaper.png
+      url: https://wall.alphacoders.com/
+      description: 高清壁纸、桌面、背景下载
+    - title: 必应壁纸
+      logo: /assets/images/logos/bing.png
+      url: https://bing.ioliu.cn/
+      description: 必应每日高清壁纸下载
+    - title: 链接任务·磁力导航
+      logo: /assets/images/logos/lianjierenwu.png
+      url: http://www.lianjierenwu.com/
+      description:
+    - title: Unsplash
+      logo: /assets/images/logos/unsplash.png
+      url: https://unsplash.com/
+      description: 高质量摄影照片分享网站，图片免费用于任何用途
+    - title: Pixiv
+      logo: /assets/images/logos/pixiv.png
+      url: https://www.pixiv.net/
+      description: 二次元插画交流网站
+    - title: 
+      logo: /assets/images/logos/default.png
+      url: 
+      description: 
+
+
+
+
+
+
+
+
